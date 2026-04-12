@@ -16,4 +16,4 @@ I am a software engineer based in Egypt, specializing in building high-performan
 - 📫 How to reach me:**moropass1212@gmail.com** or connect with me on **https://www.linkedin.com/in/youssef-ahmed-yyoussefdoinwork/**
 
 ---
-![GitHub Stats](https://streak-stats.demolab.com?user=Youssef-Ahmed1&theme=tokyonight&hide_border=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Youssef-Ahmed1?cardType=level&theme=tokyonight&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
