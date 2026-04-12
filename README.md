@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Youssef! 
+# 👋 Hi, I'm Youssef
 
 **Full-Stack Software Engineer | MERN & Backend Systems**
 
