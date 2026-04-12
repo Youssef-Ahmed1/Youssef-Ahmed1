@@ -11,10 +11,9 @@ I am a software engineer based in Egypt, specializing in building high-performan
 - **Architecture:** Object-Oriented Programming (OOP), Headless CMS (WordPress REST API), Git
 
 ### 🚀 What I'm Doing Now
-- 🔭 Currently building: **[Podokan]**
+- 🔭 Currently building: **Podokan**
 - 💼 Previously: Engineered custom backend endpoints, managed MySQL databases, and integrated external OTP authentication APIs at Glowply.
-- 📫 How to reach me: **[moropass1212@gmail.com]** or connect with me on **[https://www.linkedin.com/in/youssef-ahmed-yyoussefdoinwork/]**
+- 📫 How to reach me:**moropass1212@gmail.com** or connect with me on **https://www.linkedin.com/in/youssef-ahmed-yyoussefdoinwork/**
 
 ---
-*(Optional: Add your GitHub stats using an open-source stats card)*
 ![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssef-Ahmed1&show_icons=true&theme=radical)
