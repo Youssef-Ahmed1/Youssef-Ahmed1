@@ -16,4 +16,4 @@ I am a software engineer based in Egypt, specializing in building high-performan
 - 📫 How to reach me:**moropass1212@gmail.com** or connect with me on **https://www.linkedin.com/in/youssef-ahmed-yyoussefdoinwork/**
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youssef-Ahmed1)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youssef-Ahmed1)](https://github.com/anuraghazra/github-readme-stats)]
