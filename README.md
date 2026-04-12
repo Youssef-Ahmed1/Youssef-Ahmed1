@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Youssef! 
 
-<!--
-**Youssef-Ahmed1/Youssef-Ahmed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Software Engineer | MERN & Backend Systems**
 
-Here are some ideas to get you started:
+I am a software engineer based in Egypt, specializing in building high-performance REST APIs, relational database architectures, and scalable React frontends. I bridge the gap between complex backend logic and clean, dynamic user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- **Frontend:** JavaScript (ES6+), React.js, Tailwind CSS, HTML5/CSS3
+- **Backend:** Node.js, Express.js, PHP, RESTful API Architecture
+- **Databases:** MongoDB, MySQL, Relational Data Modeling
+- **Architecture:** Object-Oriented Programming (OOP), Headless CMS (WordPress REST API), Git
+
+### 🚀 What I'm Doing Now
+- 🔭 Currently building: **[Podokan]**
+- 💼 Previously: Engineered custom backend endpoints, managed MySQL databases, and integrated external OTP authentication APIs at Glowply.
+- 📫 How to reach me: **[moropass1212@gmail.com]** or connect with me on **[https://www.linkedin.com/in/youssef-ahmed-yyoussefdoinwork/]**
+
+---
+*(Optional: Add your GitHub stats using an open-source stats card)*
+![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssef-Ahmed1&show_icons=true&theme=radical)
