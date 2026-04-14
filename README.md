@@ -10,7 +10,7 @@ I bridge the gap between complex backend logic and clean, dynamic user interface
 - **Backend:** Node.js, Express.js, PHP, RESTful API Architecture
 - **Databases:** MongoDB, MySQL, Relational Data Modeling
 - **Architecture:** Object-Oriented Programming (OOP), Headless CMS (WordPress REST API), Git
-
+---
 ### 🚀 What I'm Doing Now
 - 🔭 Currently building: **a full stack MERN project called podokan**
 - 💼 Previously: Engineered custom backend endpoints, managed MySQL databases, and integrated external OTP authentication APIs at Glowply.
