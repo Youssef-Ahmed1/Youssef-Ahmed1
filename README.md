@@ -18,4 +18,4 @@ I bridge the gap between complex backend logic and clean, dynamic user interface
 
 ---
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Youssef-Ahmed1?cardType=level&theme=tokyonight&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
-![Codewars](https://github.r2v.ch/codewars?userYoussefahmed&stroke=blue)
+![Codewars](https://github.r2v.ch/codewars?user=Youssef_Ahmed1&stroke=blue)
