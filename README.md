@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there! I'm Youssef Ahmed
+# Hi there! I'm Youssef Ahmed
 
 ### Full-Stack Software Engineer | MERN & Backend Systems
 
@@ -8,12 +8,11 @@
 
 </div>
 
-## 💫 About Me
-- 🔭 Currently architecting and refactoring: **PODokan** (A Full-Stack MERN Print-on-Demand SaaS)
-- 💼 Previously: Engineered custom backend endpoints, managed MySQL databases, and integrated external authentication APIs at **Glowply**.
-- 🧠 Specializing in: High-performance REST APIs, relational database architectures, and scalable React frontends.
-- 📫 Reach me at: **moropass1212@gmail.com**
-- 📍 Based in **Cairo, Egypt** (Available for Remote Roles)
+##  About Me
+-  Currently architecting and refactoring: **Podokan** (A Full-Stack MERN Print-on-Demand SaaS)
+-  Previously: Engineered custom backend endpoints, managed MySQL databases, and integrated external authentication APIs at **Glowply**.
+-  Specializing in: High-performance REST APIs, relational database architectures, and scalable React frontends.
+-  Reach me at: **moropass1212@gmail.com**
 
 ## 🔗 Connect with Me
 <p align="center">
@@ -26,22 +25,22 @@
   </a>
 </p>
 
-## 🛠 Technical Stack
+## Technical Stacks
 
-### 💻 Frontend Development
+### Frontend Development
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & Architecture
+### Backend & Architecture
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117EB9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-### 🗄️ Databases & Tools
+### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -49,7 +48,7 @@
 
 ---
 
-## 📊 My Stats
+## Stats
 
 <p align="center">
   <a href="https://github.com/Youssef-Ahmed1">
