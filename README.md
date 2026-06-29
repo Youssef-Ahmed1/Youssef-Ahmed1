@@ -1,66 +1,341 @@
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/Youssef-Ahmed1?v=4" width="150" style="border-radius: 50%; border: 3px solid #33bef5;" alt="Youssef Ahmed" />
 
-# Hi there! I'm Youssef Ahmed
+  # Hi there! I'm Youssef Ahmed
 
-### Full-Stack Software Engineer | MERN & Backend Systems
+  ### Full-Stack Software Engineer | MERN & Backend Systems
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Software+Engineer;MERN+Stack+Developer;Backend+Architecture+Enthusiast;React+%26+Node.js+Specialist)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Software+Engineer;MERN+Stack+Developer;Backend+Architecture+Enthusiast;React+%26+Node.js+Specialist)](https://git.io/typing-svg)
 
-</div>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/youssef-ahmed-yyoussefdoinwork/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
+    <a href="mailto:moropass1212@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="EMail" title="EMail" /></a>
+  </p>
 
-##  About Me
--  Currently architecting and refactoring: **Podokan** (A Full-Stack MERN Print-on-Demand SaaS)
--  Previously: Engineered custom backend endpoints, managed MySQL databases, and integrated external authentication APIs at **Glowply**.
--  Specializing in: High-performance REST APIs, relational database architectures, and scalable React frontends.
--  Reach me at: **moropass1212@gmail.com**
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/youssef-ahmed-yyoussefdoinwork/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:moropass1212@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="40" width="50" />
-  </a>
-</p>
-
-## Technical Stacks
-
-### Frontend Development
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Architecture
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117EB9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## Stats
-
-<p align="center">
-  <a href="https://github.com/Youssef-Ahmed1">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Youssef-Ahmed1?cardType=level&theme=nightowl&fontFamily=JetBrains%20Mono&preferLogin=false" alt="Youssef's Awesome Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github.r2v.ch/codewars?user=Youssef_Ahmed1&s=true&name=true&stroke=%23b362ff&theme=nightowl" alt="Youssef's Codewars Stats" />
-</p>
-
-<div align="center">
-  <b>Let's connect and build scalable applications together! 🚀</b><br><br>
+  <b>Let's connect and build scalable applications together! 🚀</b>
+  <br /><br />
   <img src="https://komarev.com/ghpvc/?username=Youssef-Ahmed1&color=blueviolet" alt="Profile Views" />
 </div>
+
+<br />
+
+<details>
+  <summary>GitHub & Codewars Stats</summary>
+
+  <p align="center">
+    <a href="https://github.com/Youssef-Ahmed1">
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Youssef-Ahmed1?cardType=level&theme=nightowl&fontFamily=JetBrains%20Mono&preferLogin=false" alt="Youssef's Awesome Stats" />
+    </a>
+    <a href="https://github.com/Youssef-Ahmed1">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Ahmed1&layout=compact&theme=nightowl" alt="Top language used" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://www.codewars.com/users/Youssef_Ahmed1">
+      <img src="https://github.r2v.ch/codewars?user=Youssef_Ahmed1&s=true&name=true&stroke=%23b362ff&theme=nightowl" alt="Youssef's Codewars Stats" />
+    </a>
+  </p>
+</details>
+
+## Experience & Projects
+
+<table bordercolor="#8a2be2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Podokan</h3>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/-SaaS_Platform-000?style=for-the-badge&logo=react&logoColor=61dbfb" alt="SaaS App" />
+      </p>
+      <p>
+        <strong>MongoDB, Express.js, React, Node.js</strong> - Currently architecting and refactoring a Full-Stack Print-on-Demand application. Specializing in high-performance endpoints and scalable components.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Glowply</h3>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Backend_Architecture-000?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="Backend Architecture" />
+      </p>
+      <p>
+        <strong>MySQL, Node.js, REST APIs, Auth</strong> - Previously engineered custom backend endpoints, managed relational database architectures, and integrated external authentication APIs.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Time Tracker</h3>
+      <br />
+      <a href="https://github.com/Youssef-Ahmed1/time-tracker-test" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Youssef-Ahmed1&repo=time-tracker-test&theme=nightowl" alt="Time Tracker" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/Youssef-Ahmed1/time-tracker-test" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" alt="Repo" />
+        </a>
+      </p>
+      <p>
+        <strong>JavaScript, HTML, CSS</strong> - A public repository demonstrating custom-built time tracking application functionality and logic.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Rock Paper Scissors</h3>
+      <br />
+      <a href="https://github.com/Youssef-Ahmed1/rock_paper_scissors_game" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Youssef-Ahmed1&repo=rock_paper_scissors_game&theme=nightowl" alt="Rock Paper Scissors" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/Youssef-Ahmed1/rock_paper_scissors_game" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" alt="Repo" />
+        </a>
+      </p>
+      <p>
+        <strong>JavaScript, DOM Manipulation</strong> - Interactive classic game logic built from scratch directly interacting with the DOM.
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Technologies
+
+<details>
+  <summary>Experienced Technologies</summary>
+
+  <table>
+    <tr><td>Frontend Development</td></tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                JavaScript
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                React
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Tailwind CSS
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                HTML5
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                CSS3
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <table>
+    <tr><td>Backend & CMS</td></tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Node.js
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" title="Express.js" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Express.js
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                PHP
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="WordPress" title="WordPress" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                WordPress
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <table>
+    <tr><td>Databases & Tools</td></tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                MongoDB
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                MySQL
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Git
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Postman
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+</details>
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/youssef-ahmed-yyoussefdoinwork/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
+  <a href="mailto:moropass1212@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="EMail" title="EMail" /></a>
+</p>
+
+Feel free to reach out to me via email or LinkedIn for collaborations, to ask questions, or if you'd like to work together!
