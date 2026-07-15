@@ -24,7 +24,7 @@
 <br />
 
 <details>
-  <summary><b>📈 GitHub & Codewars Stats</b></summary>
+  <summary><b> GitHub & Codewars Stats</b></summary>
   <br />
   <p align="center">
     <a href="https://github.com/Youssef-Ahmed1">
@@ -43,7 +43,7 @@
 
 <br />
 
-## 💻 Experience & Projects
+##  Experience & Projects
 
 <table bordercolor="#33bef5">
   <tr>
@@ -117,7 +117,7 @@
 
 <br />
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <details open>
   <summary><b>My Tech Stack</b></summary>
@@ -151,7 +151,7 @@
 
 <br />
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
   Feel free to reach out to me via email or LinkedIn for collaborations, questions, or if you'd just like to chat about tech!
