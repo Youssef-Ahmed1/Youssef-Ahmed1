@@ -64,6 +64,25 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Who Wants To Be A Developer?</h3>
+      <br />
+      <a href="https://github.com/Youssef-Ahmed1/coding-millionaire" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Youssef-Ahmed1&repo=coding-millionaire&theme=nightowl" alt="Coding Millionaire" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://who-wants-to-be-a-millionaire-for-programmers-8dnejbmrw.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/-Live_Demo-000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/Youssef-Ahmed1/coding-millionaire" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" alt="Repo" />
+        </a>
+      </p>
+      <p>
+        <strong>Next.js 15, TypeScript, MongoDB, NextAuth, Tailwind, Zustand, Jest, Playwright</strong> - A high-stakes, timed technical interview simulator with 15-second timer, career ladder from "Applicant" to "CTO", three lifelines (50/50, StackOverflow, Phone a Friend), and global leaderboard.
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Time Tracker</h3>
       <br />
       <a href="https://github.com/Youssef-Ahmed1/time-tracker-test" target="_blank">
@@ -76,23 +95,7 @@
         </a>
       </p>
       <p>
-        <strong>JavaScript, HTML, CSS</strong> - A public repository demonstrating custom-built time tracking application functionality and logic.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Rock Paper Scissors</h3>
-      <br />
-      <a href="https://github.com/Youssef-Ahmed1/rock_paper_scissors_game" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Youssef-Ahmed1&repo=rock_paper_scissors_game&theme=nightowl" alt="Rock Paper Scissors" />
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/Youssef-Ahmed1/rock_paper_scissors_game" target="_blank">
-          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" alt="Repo" />
-        </a>
-      </p>
-      <p>
-        <strong>JavaScript, DOM Manipulation</strong> - Interactive classic game logic built from scratch directly interacting with the DOM.
+        <strong>JavaScript, HTML, CSS</strong> - A custom-built time tracking application demonstrating core frontend logic and DOM manipulation.
       </p>
     </td>
   </tr>
